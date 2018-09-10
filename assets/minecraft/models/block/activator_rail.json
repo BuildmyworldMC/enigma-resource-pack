@@ -1,0 +1,17 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "flat_ns"       : { "model": "r_activator_rail_flat" },
+        "flat_ew"       : { "model": "r_activator_rail_flat", "y": 90 },
+        "raised_e"      : { "model": "r_activator_rail_raised", "y": 90 },
+        "raised_w"      : { "model": "r_activator_rail_raised", "y": 270 },
+        "raised_n"      : { "model": "r_activator_rail_raised" },
+        "raised_s"      : { "model": "r_activator_rail_raised", "y": 180 },
+        "active_flat_ns": { "model": "r_activator_rail_flat" },
+        "active_flat_ew": { "model": "r_activator_rail_flat", "y": 90 },
+        "active_raised_e"      : { "model": "r_activator_rail_raised", "y": 90 },
+        "active_raised_w"      : { "model": "r_activator_rail_raised", "y": 270 },
+        "active_raised_n"      : { "model": "r_activator_rail_raised" },
+        "active_raised_s"      : { "model": "r_activator_rail_raised", "y": 180 }
+    }
+}
