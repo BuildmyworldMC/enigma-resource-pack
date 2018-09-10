@@ -4,6 +4,7 @@ Version supportée :
 
 - 1.8
 - 1.9
+- 1.12
 
 ## Remerciement
 
