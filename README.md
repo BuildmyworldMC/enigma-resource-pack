@@ -2,9 +2,10 @@
 
 Version supportée :
 
-- 1.8
-- 1.9
 - 1.12
+
+D'autres versions sont supportées disponible sur :
+https://buildmyworld.fr/resources
 
 ## Remerciement
 
