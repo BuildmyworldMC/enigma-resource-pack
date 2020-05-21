@@ -1,7 +1,7 @@
 {
     "parent": "block/infested/template_infested_inventory",
     "textures": {
-      "top": "block/variants/stone/stone/stone_1",
+      "top": "block/stone",
       "side": "block/stone",
       "infested": "block/variants/infested/template_inventory_infested"
     }

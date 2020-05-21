@@ -1,0 +1,9 @@
+{
+    "parent": "block/block/basemossy",
+    "textures": {
+        "down": "block/mossy_cobblestone",
+        "up": "block/mossy_cobblestone",
+        "side": "block/mossy_cobblestone",
+        "crop": "block/wheat_stage0"
+    }
+}

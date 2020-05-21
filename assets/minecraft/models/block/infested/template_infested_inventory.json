@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"top": "block/variants/stone/cobblestone/cobblestone_top",
+		"top": "block/cobblestone",
 		"side": "block/cobblestone",
 		"particle": "block/cobblestone",
 		"infested": "block/variants/infested/template_inventory_infested"
