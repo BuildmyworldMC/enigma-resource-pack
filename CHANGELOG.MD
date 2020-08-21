@@ -1,5 +1,12 @@
 # Changelog
 
+1.14 v1.3
+-------
+Quelques changements :
+
+- Amélioration de la texture des blocs d'andésite et sa version polie pour les rendre moins bleu.
+
+
 1.14 v1.2
 -------
 Quelques changements :
