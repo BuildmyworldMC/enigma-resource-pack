@@ -1,5 +1,10 @@
 # Changelog
 
+1.15 v1.0
+-------
+- Support de la 1.15 avec les nouvelles textures, nouvelles entités et autres changements
+
+
 1.14 v1.3
 -------
 Quelques changements :
