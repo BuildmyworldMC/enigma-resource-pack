@@ -1,5 +1,10 @@
 # Changelog
 
+1.16 v1.0
+-------
+- Support de la 1.16.2 avec les nouvelles textures, nouvelles entités et autres changements
+
+
 1.15 v1.0
 -------
 - Support de la 1.15 avec les nouvelles textures, nouvelles entités et autres changements
