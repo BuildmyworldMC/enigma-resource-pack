@@ -8,6 +8,7 @@
 - Ajout des textures connectés pour la pierre taillé ciselée (`chiseled stone bricks`)
 - Ajout d'une texture pour le `debug stick`
 - Amélioration de la texture d'effet d'enchantement des items
+- Amélioration de l'icon du pack pour utiliser la banniere du projet
 - Correction de la texture de la dalle de pierre noir polie car elle n'avait pas la meme texture que l'objet en main
 
 1.16 v1.1
