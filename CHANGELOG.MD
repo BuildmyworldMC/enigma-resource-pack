@@ -1,5 +1,22 @@
 # Changelog
 
+1.16 v1.3
+-------
+- Ajout d'overlay pour la neige
+- Ajout des feuillages comme le mod Better Folliage
+- Ajout de la texture pour le sélecteur de mode de jeu (gamemode switcher)
+- Ajout des interfaces en version colorés en accord avec la shulker ouverte
+- Ajout d'un modele 3D pour le pupitre (lectern) et la table d'enchantement
+- Ajout de nouvelles textures pour ajouter des variantes de mob (vache, mouton, zombie, etc)
+- Ajout d'un ciel personnalisé
+- Ajout des textures pour le support de Realms
+- Amélioration du modele 3D du barril lors de son ouverture : le couvercle s'ouvre desormais vers le haut et plus sur le cote du bloc.
+- Amélioration de la dalle de chene petrifiée avec l'ajout de nouvelles textures comme des poissons supplementaires
+- Correction de l'affichage en main de la dalle de chene petrifiée qui n'utilisait pas le bon rendu
+- Correction de la dalle de chene petrifiée qui n'affichait pas toutes les variantes de textures dans les biomes classisques comme les plaines ou les forets
+- Suppression de l'overlay avec les feuilles de chenes car inutile desormais avec les nouveaux feuillages
+
+
 1.16 v1.2
 -------
 - Ajout d'overlay pour l'herbe, la terre, le gravier, le sable, le sable rouge et les feuilles de chenes
@@ -10,6 +27,7 @@
 - Amélioration de la texture d'effet d'enchantement des items
 - Amélioration de l'icon du pack pour utiliser la banniere du projet
 - Correction de la texture de la dalle de pierre noir polie car elle n'avait pas la meme texture que l'objet en main
+
 
 1.16 v1.1
 -------
