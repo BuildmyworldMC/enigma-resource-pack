@@ -1,5 +1,19 @@
 # Changelog
 
+1.16 v1.4
+-------
+- Toutes les potions possèdent désormais des textures propres à leurs effets
+- Nouvelle texture pour le bloc cible (target block)
+- Ajout de modèle 3D pour les chaines et lanternes améliorant leurs aspects surtout celui des chaines qui paraisse bien plus solide maintenant
+- Ajout des transitions douces (overlay) avec l'andésite, la diorite et le granite seulement en présence de pierre
+- Ajout des textures pour le mod "Voxel map" donnant un bien meilleur aspect à la mini-carte
+- Ajout des anciennes textures pour le grès (sandstone) et le grès rouge (red sandstone) pour avoir une texture différentes de leurs versions lisses
+- Revue complète de l'interface pour ajouter des fonds sous les titres des interfaces et corriger les textures mal positionnées
+- Amélioration de l'interface pour l'entonnoir (hoppeur)
+- Amélioration des fonds pour l'espace progrès (advancements)
+- Correction de la texture du détecteur de lumière en position nuit qui était marron au lieu d'être bleu
+
+
 1.16 v1.3
 -------
 - Ajout d'overlay pour la neige
