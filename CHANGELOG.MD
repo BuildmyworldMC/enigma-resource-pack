@@ -1,5 +1,12 @@
 # Changelog
 
+1.16 v1.5
+-------
+- Ajout de la texture manquante pour les warped roots
+- Changement de texture pour les cotes des dalles de chenes petrifiée
+- Corrections de quelques problemes d'intefaces supplémentaires
+
+
 1.16 v1.4
 -------
 - Toutes les potions possèdent désormais des textures propres à leurs effets
