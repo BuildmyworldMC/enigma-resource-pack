@@ -1,10 +1,10 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/composter_side",
-		"side": "block/composter_side",
+		"particle": "block/barrel_side",
+		"side": "block/barrel_side",
 		"top": "block/foodcrate",
-		"bottom": "block/composter_bottom"
+		"bottom": "block/barrel_bottom"
 	},
 	"elements": [
 		{
