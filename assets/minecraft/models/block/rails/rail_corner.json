@@ -4,7 +4,8 @@
 	"textures": {
 		"0": "block/rail",
 		"1": "block/variants/rails/rail_bottom",
-		"1_0": "block/variants/rails/rail_top"
+		"1_0": "block/variants/rails/rail_top",
+		"1_1": "block/variants/rails/rail_top"
 	},
 	"elements": [
 		{
