@@ -1,5 +1,17 @@
 # Changelog
 
+1.16 v1.6
+-------
+- Ajout des transitions douces pour le podzol
+- Ajout des transitions douces pour la terre stérile
+- Ajout de la prise en charge des blocs de pierre taillés et ces dérivés avec toutes les transitions douces en place
+- Amélioration des barres de connexions réseaux pour une meilleure expérience utilisateur
+- Remplacement de l'interface de la citrouille placé comme casque par l'overlay du projet
+- Correction de la texture du pupitre qui afficher des livres noirs du fait du modèle 3D
+- Correction des textures manquante sur certain modèle de rail tournant
+- Correction sur les transitions douces de l'herbe qui ne fonctionnais pas avec l'andésite, le granite et la pierre moussue
+
+
 1.16 v1.5
 -------
 - Ajout de la texture manquante pour les warped roots
