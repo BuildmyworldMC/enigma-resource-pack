@@ -1,5 +1,10 @@
 # Changelog
 
+1.17 v1.0
+-------
+- Support de la 1.17 avec les nouvelles textures, nouvelles entités et autres changements
+
+
 1.16 v1.7
 -------
 - Amélioration des transitions douces pour le gravier, le sable et le sable rouge qui supporte désormais les différents blocs de terre cuite et de béton
