@@ -1,5 +1,15 @@
 # Changelog
 
+1.17 v1.1
+-------
+- Ajout du support optifine pour avoir des textures différentes pour les types de feux d'artifices
+- Ajout de la prise en charge du tuff avec les transitions douces de l'herbe, de la terre et du gravier
+- Ajout de la prise en charge de la terre racineuse avec toutes les transitions douces en place
+- Correction des textures inversées pour l'azalée en pot
+- Correction du modèle pour la pierre taillée infesté
+- Correction des transitions douces ​qui utilisait l'ancien nom du bloc de chemin de terre
+
+
 1.17 v1.0
 -------
 - Support de la 1.17 avec les nouvelles textures, nouvelles entités et autres changements
