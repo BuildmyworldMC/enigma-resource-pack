@@ -1,0 +1,33 @@
+{
+    "multipart": [
+		{ "apply": { "model": "minecraft:block/bookshelf/bookshelf_structure" } },
+		{ "apply": [
+				{ "model": "minecraft:block/bookshelf/books_1" },
+				{ "model": "minecraft:block/bookshelf/books_2" },
+				{ "model": "minecraft:block/bookshelf/books_3" },
+				{ "model": "minecraft:block/bookshelf/books_4" }
+			]
+		},
+		{ "apply": [
+				{ "model": "minecraft:block/bookshelf/books_2", "y": 90 },
+				{ "model": "minecraft:block/bookshelf/books_1", "y": 90 },
+				{ "model": "minecraft:block/bookshelf/books_4", "y": 90 },
+				{ "model": "minecraft:block/bookshelf/books_3", "y": 90 }
+			]
+		},
+		{ "apply": [
+				{ "model": "minecraft:block/bookshelf/books_1", "y": 180 },
+				{ "model": "minecraft:block/bookshelf/books_2", "y": 180 },
+				{ "model": "minecraft:block/bookshelf/books_3", "y": 180 },
+				{ "model": "minecraft:block/bookshelf/books_4", "y": 180 }
+			]
+		},
+		{ "apply": [
+				{ "model": "minecraft:block/bookshelf/books_2", "y": 270 },
+				{ "model": "minecraft:block/bookshelf/books_1", "y": 270 },
+				{ "model": "minecraft:block/bookshelf/books_4", "y": 270 },
+				{ "model": "minecraft:block/bookshelf/books_3", "y": 270 }
+			]
+		}
+	]
+}
