@@ -1,5 +1,23 @@
 # Changelog
 
+1.17 v1.2
+-------
+- Ajout d'un modèle 3D pour les bibliothèques
+- Ajout d'un modèle 3D pour le chaudron
+- Ajout de la texture pour le disque de musique `otherside`
+- Ajout de la texture pour le sac
+- Ajout de la texture `starfield02.png` manquant
+- Ajout d'un modèle pour chaque tapis afin d'ajouter des franges sur les quatres cotés
+- Amélioration de la texture de la lanterne aquatique
+- Amélioration de la texture de l'étoile de feu d'artifice
+- Amélioration de la texture des éléments enchantés
+- Amélioration des textures des bougies
+- Amélioration de la texture du golem de fer
+- Correction d'un bug x-ray sur le modèle du composteur lorsqu'il est placé contre un bloc
+- Correction des textures pour l'interface de la table d'enchantement, de l'interface de commerce avec les villageois et de l'interface du changeur de mode de jeu rapide
+- Correction du modèle du bloc de mousse
+
+
 1.17 v1.1
 -------
 - Ajout du support optifine pour avoir des textures différentes pour les types de feux d'artifices
