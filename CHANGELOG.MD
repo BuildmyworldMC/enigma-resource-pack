@@ -1,5 +1,10 @@
 # Changelog
 
+1.18 v1.0
+-------
+- Support de la 1.18 et autres changements
+
+
 1.17 v1.2
 -------
 - Ajout d'un modèle 3D pour les bibliothèques
