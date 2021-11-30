@@ -12,7 +12,7 @@
 - Ajout de la texture pour le disque de musique `otherside`
 - Ajout de la texture pour le sac
 - Ajout de la texture `starfield02.png` manquant
-- Ajout d'un modèle pour chaque tapis afin d'ajouter des franges sur les quatres cotés
+- Ajout d'un modèle pour chaque tapis afin d'ajouter des franges sur les quatre cotés
 - Amélioration de la texture de la lanterne aquatique
 - Amélioration de la texture de l'étoile de feu d'artifice
 - Amélioration de la texture des éléments enchantés
