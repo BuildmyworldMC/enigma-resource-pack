@@ -1,5 +1,12 @@
 # Changelog
 
+1.18 v1.1
+-------
+- Amélioration des tableaux pour les rendre plus cohérent avec le thème médiéval
+- Amélioration des textures des lits pour les rendre plus cohérent avec le thème médiéval
+- Correction de la texture de fond pour les effets de potions
+
+
 1.18 v1.0
 -------
 - Support de la 1.18 et autres changements
