@@ -50,7 +50,7 @@
 - Amélioration des transitions douces pour le gravier, le sable et le sable rouge qui supporte désormais les différents blocs de terre cuite et de béton
 - Amélioration des transitions pour l'herbe qui supporte désormais les blocs de grès et des grès rouges
 - Amélioration des transitions dources pour la gravier, la terre et la terre stérile pour les rendres moins imposant
-- Amelioration des textures pour les pastèques pour les rendres raccord entre plusieurs pastèques
+- Amélioration des textures pour les pastèques pour les rendres raccord entre plusieurs pastèques
 - Changement de texture pour le lapis lazuli
 
 
