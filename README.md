@@ -3,9 +3,9 @@
 Version supportée :
 
 - 1.18
+- 1.18.1
 
-D'autres versions sont supportées disponible sur :
-https://buildmyworld.fr/resources
+D'autres versions sont supportées disponible sur : https://buildmyworld.fr/resources
 
 ## Remerciement
 
