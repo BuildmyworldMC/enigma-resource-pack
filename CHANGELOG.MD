@@ -1,5 +1,14 @@
 # Changelog
 
+1.18 v1.2
+-------
+- Ajout des transitions douces pour le bloc de mousse
+- Ajout de variantes pour les poulpes luisants
+- Ajout de variantes pour les slimes
+- Amélioration des transitions douces de l'herbe pour supporter le bloc de mousse
+- Correction de la couleur de la laine grise et gris clair pour avoir une cohérence avec les bannières de la même couleur
+
+
 1.18 v1.1
 -------
 - Amélioration des tableaux pour les rendre plus cohérent avec le thème médiéval
