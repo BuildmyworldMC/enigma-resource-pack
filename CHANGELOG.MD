@@ -1,5 +1,17 @@
 # Changelog
 
+1.19 v1.0
+-------
+- Support de la 1.19 et autres changements
+- Ajout du support optifine pour avoir des textures personnalisés spécifiques a chaque livre enchanté
+- Amélioration des textures des blocs de minerais pour les faires rendres coherentes avec les versions pour l'ardoise des abîmes (deepslate)
+- Amélioration des modèles pour certains murets
+- Amélioration des modèles pour les bouttons dans leurs versions afficher dans l'inventaire et celle tenue en main
+- Amélioration du modèle pour le métier à tisser (loom)
+- Refonte des animations et textures pour la boussole et l'horloge pour les rendres plus pratique et homogene
+- Correction du modèle du bloc de fève de cacao qui n'avait pas les bonnes dimensions
+
+
 1.18 v1.2
 -------
 - Ajout des transitions douces pour le bloc de mousse
