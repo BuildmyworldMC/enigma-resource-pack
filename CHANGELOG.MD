@@ -1,5 +1,12 @@
 # Changelog
 
+1.19 v1.1
+-------
+- Amélioration du menu avec un nouveau fond avec une vue sur la ville de Jovia (Contribution d'Infernaton)
+- Correction d'un problème sur le modèle des trappes, spécifiques a certaines orientations qui affichent l'intérieur de la trappe vide
+- Correction de la texture du bloc "brique de quartz" qui avait la texture quartz et non une version brique
+
+
 1.19 v1.0
 -------
 - Support de la 1.19 et autres changements
