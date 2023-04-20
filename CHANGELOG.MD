@@ -1,5 +1,12 @@
 # Changelog
 
+1.19 v1.2
+-------
+- Amélioration des interfaces des blocs utilisables (comme la table de fabrication, les coffres, la table d'enchantement, etc ...) et celle des villageois pour ajouter un arrière-plan sous le texte "Inventaire" pour les rendre cohérentes entre elles
+- Modification de la texture de fond du menu options : du gravier au sable
+- Correction des textures des plaques de pression en bois de mangrove et en bois du nether. Elles avaient une texture avec une bordure incohérente avec les autres plaques de pression
+
+
 1.19 v1.1
 -------
 - Amélioration du menu avec un nouveau fond avec une vue sur la ville de Jovia (Contribution d'Infernaton)
