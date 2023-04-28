@@ -1,5 +1,13 @@
 # Changelog
 
+1.19.4 v1.0
+-------
+- Support de la 1.19 et autres changements
+
+Expérimental
+- Ajout des modèles et des textures pour les fonctionnalités expérimentales de la 1.20
+
+
 1.19.3 v1.0
 -------
 - Ajout de textures pour indiquer le niveau de miel dans une ruche (beenest)

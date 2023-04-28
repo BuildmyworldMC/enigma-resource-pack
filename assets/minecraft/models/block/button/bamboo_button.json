@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button/template_orientable_button",
+    "textures": {
+        "texture": "minecraft:block/variants/button/bamboo_button"
+    }
+}
