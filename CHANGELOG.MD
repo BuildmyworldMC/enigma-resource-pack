@@ -1,5 +1,19 @@
 # Changelog
 
+1.19.3 v1.0
+-------
+- Ajout de textures pour indiquer le niveau de miel dans une ruche (beenest)
+- Amélioration de la texture du bois de bouleau pour faire mieux apparaitre l'écorce
+- Modification de la texture du Vex pour le rendre plus propre de l'Allay
+- Suppression du modèle 3D pour le bloc musical (noteblock) pour le rendre simple
+- Diverses modifications techniques qui non pas d'impact sur les textures actuelles (armures, porte armure)
+- Correction d'un détail sur les textures des planches de jungle, d'acacia et de sapin
+- Correction d'un problème sur le modèle des trappes, spécifiques a certaines orientations qui affichent l'intérieur de la trappe vide
+
+Expérimental
+- Ajout des modèles et des textures pour les fonctionnalités expérimentales de la 1.20
+
+
 1.19 v1.2
 -------
 - Amélioration des interfaces des blocs utilisables (comme la table de fabrication, les coffres, la table d'enchantement, etc ...) et celle des villageois pour ajouter un arrière-plan sous le texte "Inventaire" pour les rendre cohérentes entre elles
