@@ -1,5 +1,10 @@
 # Changelog
 
+1.20.0 v1.0
+-------
+- Support de la 1.20.0 et autres changements
+
+
 1.19.4 v1.0
 -------
 - Support de la 1.19 et autres changements
