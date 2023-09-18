@@ -3,6 +3,7 @@
 1.20.0 v1.0
 -------
 - Support de la 1.20.0 et autres changements
+- Ajoute de textures pour le nouveau menu de création des mondes solo 
 - Prise en charge des blocs gravier suspicieux (suspicious gravel), sable suspicieux (suspicious sand), briques de terre (mud bricks) et terre des âmes (soul soil) dans les transitions douces
 
 
