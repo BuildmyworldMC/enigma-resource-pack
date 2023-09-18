@@ -3,6 +3,7 @@
 1.20.0 v1.0
 -------
 - Support de la 1.20.0 et autres changements
+- Prise en charge des blocs gravier suspicieux (suspicious gravel), sable suspicieux (suspicious sand), briques de terre (mud bricks) et terre des âmes (soul soil) dans les transitions douces
 
 
 1.19.4 v1.0
