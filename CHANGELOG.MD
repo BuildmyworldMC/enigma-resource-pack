@@ -2,8 +2,10 @@
 
 1.20.0 v1.0
 -------
-- Support de la 1.20.0 et autres changements
-- Ajoute de textures pour le nouveau menu de création des mondes solo 
+- Support de la 1.20.0, 1.20.1 et autres changements
+- Ajout de textures pour le nouveau menu de création des mondes solo
+- Ajout des transitions douces pour les blocs de gravier et de sable suspicieux
+- Refonte des logos minecraft (menu principal, menu realms)
 - Prise en charge des blocs gravier suspicieux (suspicious gravel), sable suspicieux (suspicious sand), briques de terre (mud bricks) et terre des âmes (soul soil) dans les transitions douces
 
 

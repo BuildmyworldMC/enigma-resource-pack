@@ -2,7 +2,7 @@
 
 Version supportée :
 
-- 1.20.0
+- 1.20.0, 1.20.1
 
 D'autres versions sont supportées disponible sur : https://buildmyworld.fr/resources
 
