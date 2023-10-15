@@ -1,5 +1,10 @@
 # Changelog
 
+1.20.0 v1.1
+-------
+- Ajout de la statue du père Rimoras pour l'abbaye de Rimori (nécessite Optifine)
+
+
 1.20.0 v1.0
 -------
 - Support de la 1.20.0, 1.20.1 et autres changements
