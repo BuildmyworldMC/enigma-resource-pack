@@ -1,6 +1,10 @@
 # Changelog
 
-1.20.0 v1.1
+1.20.0 v1.2
+-------
+- Ajout des textures pour la plante Sarracénie(pitcher plant)
+
+
 -------
 - Ajout de la statue du père Rimoras pour l'abbaye de Rimori (nécessite Optifine)
 
