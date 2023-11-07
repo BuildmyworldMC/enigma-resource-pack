@@ -1,5 +1,10 @@
 # Changelog
 
+1.20.0 v1.3
+-------
+- Correction du modele 3D pour le chaudron qui avait une face transparente sur l'orientation Ouest avec un bloc adjacent (Merci a Lipki pour le debug)
+
+
 1.20.0 v1.2
 -------
 - Ajout des textures pour la plante Sarracénie(pitcher plant)
