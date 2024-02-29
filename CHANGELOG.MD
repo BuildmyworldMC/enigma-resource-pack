@@ -1,5 +1,13 @@
 # Changelog
 
+1.20.0 v1.4
+-------
+- Ajout de la texture pour la plante Sarracénie (pitcher plant item)
+- Modification des textures des panneaux, car désormais les deux faces sont éditables
+- Remplacement de la texture du block d'apparition de monstre (mob spawner) pour utilisé la nouvelle texture que Likpi a faite pour la 1.21
+- Remplacement de la texture du golem de faire par une vieille texture plus homogène avec le reste du pack (tiré de la version 1.4 du summerfields)
+
+
 1.20.0 v1.3
 -------
 - Correction du modele 3D pour le chaudron qui avait une face transparente sur l'orientation Ouest avec un bloc adjacent (Merci a Lipki pour le debug)
