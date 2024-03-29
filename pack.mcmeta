@@ -1,6 +1,16 @@
 {
   "pack": {
-    "description": "Enigma 1.20.0, 1.20.1 Edition Buildmyworld",
-    "pack_format": 15
+    "pack_format": 22,
+    "supported_formats": {"min_inclusive": 18, "max_inclusive": 22},
+    "description": "Enigma 1.20.2 - 1.20.4 Edition Buildmyworld"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 18,
+        "directory": "18"
+      }
+    ]
   }
 }
+
