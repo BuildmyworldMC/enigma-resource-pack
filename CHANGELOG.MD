@@ -1,5 +1,10 @@
 # Changelog
 
+1.20.5 v1.0
+-------
+- Support de la 1.20.5 et autres changements
+
+
 1.20.2 - 1.20.4 v1.0
 -------
 - Support de la 1.20.2 a la 1.20.4 (explosion des interfaces)
