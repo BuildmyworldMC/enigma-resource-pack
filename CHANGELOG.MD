@@ -1,5 +1,16 @@
 # Changelog
 
+1.20.5 - 1.20.6 v1.1
+-------
+- Support de la 1.20.6
+- Amélioration de l'effet d'enchantement
+- Amélioration du contraste pour la texture de la Sarracénie (pitcher pod item)
+- Correction du problème de texture pour l'ecaille de tortue (mauvais nom)
+- Correction du problème de texture pour le chapeau des villageois du biome savanne
+- Correction de couleur pour les bateaux et le panneau en bois de chene noir
+- Correction d'un vieux bug sur les coffres
+
+
 1.20.5 v1.0
 -------
 - Support de la 1.20.5 et autres changements
