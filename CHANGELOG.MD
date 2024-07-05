@@ -1,5 +1,10 @@
 # Changelog
 
+1.21.0 v1.0
+-------
+- Support de la 1.21.0 et autres changements
+
+
 1.20.5 - 1.20.6 v1.1
 -------
 - Support de la 1.20.6
