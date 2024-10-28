@@ -1,5 +1,11 @@
 # Changelog
 
+1.21.0 - 1.21.1 v1.1
+-------
+- Support de la 1.21.1 et autres changements
+- Support du datapack Painting Selector
+
+
 1.21.0 v1.0
 -------
 - Support de la 1.21.0 et autres changements
