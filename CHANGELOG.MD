@@ -1,5 +1,11 @@
 # Changelog
 
+1.21.0 - 1.21.1 v1.2
+-------
+- Prise en charge des blocs de corail mort (dead corals) dans les transitions douces
+- Correction d'un problème de texture sur les escaliiers en bamboo
+
+
 1.21.0 - 1.21.1 v1.1
 -------
 - Support de la 1.21.1 et autres changements
@@ -47,7 +53,7 @@
 
 1.20.0 v1.2
 -------
-- Ajout des textures pour la plante Sarracénie(pitcher plant)
+- Ajout des textures pour la plante Sarracénie (pitcher plant)
 
 
 -------
