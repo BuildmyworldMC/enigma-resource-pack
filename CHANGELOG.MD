@@ -1,5 +1,16 @@
 # Changelog
 
+1.21.2 - 1.21.3 v1.0
+-------
+- Support de la 1.21.2 et 1.21.3 et autres changements
+- Ajout de transition douce sur le block de tapis de mousse (moss carpet)
+- Ajout de modele 3D pour les portes en cuivre
+- Ajout d'une texture spécifique pour les algues Laminariales (kelp) ayant atteint un grand age
+- Amélioration de divers blocs pour leur ajouter le support des textures emmissives
+- Amélioration des textures des clés des coffre-forts (vault)
+- Correction de divers textures d'interface (changement d'orientation)
+
+
 1.21.0 - 1.21.1 v1.2
 -------
 - Prise en charge des blocs de corail mort (dead corals) dans les transitions douces
