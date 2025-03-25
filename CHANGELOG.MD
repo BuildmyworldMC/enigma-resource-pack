@@ -1,5 +1,10 @@
 # Changelog
 
+1.21.2 - 1.21.3 v1.1
+-------
+- Correction d'un problème de modèle pour les blocs de ruches (beehive)
+
+
 1.21.2 - 1.21.3 v1.0
 -------
 - Support de la 1.21.2 et 1.21.3 et autres changements
