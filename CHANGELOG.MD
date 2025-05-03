@@ -16,6 +16,11 @@
 - Correction de divers textures d'interface (changement d'orientation)
 
 
+1.21.0 - 1.21.1 v1.3
+-------
+- Correction d'un problème de modele sur les bamboo
+
+
 1.21.0 - 1.21.1 v1.2
 -------
 - Prise en charge des blocs de corail mort (dead corals) dans les transitions douces
