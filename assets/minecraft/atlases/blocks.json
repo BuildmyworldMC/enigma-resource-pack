@@ -7,23 +7,8 @@
         },
         {
             "type": "directory",
-            "source": "variant_ess",
-            "prefix": "variant_ess/"
-        },
-        {
-            "type": "directory",
-            "source": "variant_full",
-            "prefix": "variant_full/"
-        },
-        {
-            "type": "directory",
             "source": "item",
             "prefix": "item/"
-        },
-        {
-            "type": "directory",
-            "source": "models",
-            "prefix": "models/"
         },
         {
             "type": "directory",
@@ -31,17 +16,14 @@
             "prefix": "entity/"
         },
         {
-            "type": "single",
-            "resource": "entity/bell/bell_body"
-        },
-        {
-            "type": "single",
-            "resource": "entity/enchanting_table_book"
-        },
-        {
             "type": "directory",
             "source": "trims",
             "prefix": "trims/"
+        },
+        {
+            "type": "directory",
+            "source": "variant",
+            "prefix": "variant/"
         },
         {
             "type": "paletted_permutations",
@@ -50,10 +32,10 @@
                 "trims/items/chestplate_trim",
                 "trims/items/helmet_trim",
                 "trims/items/boots_trim",
-                "trims/models/armor/shaper",
-                "trims/models/armor/shaper_leggings",
-                "trims/models/armor/wayfinder",
-                "trims/models/armor/wayfinder_leggings"
+                "trims/entity/humanoid/shaper",
+                "trims/entity/humanoid_leggings/shaper",
+                "trims/entity/humanoid/wayfinder",
+                "trims/entity/humanoid_leggings/wayfinder"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
@@ -66,7 +48,12 @@
                 "copper": "trims/color_palettes/copper",
                 "emerald": "trims/color_palettes/emerald",
                 "lapis": "trims/color_palettes/lapis",
-                "amethyst": "trims/color_palettes/amethyst"
+                "amethyst": "trims/color_palettes/amethyst",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "resin": "trims/color_palettes/resin"
             }
         }
     ]

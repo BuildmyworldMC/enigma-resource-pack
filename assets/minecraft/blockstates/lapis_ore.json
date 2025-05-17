@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:variant/ore/lapis_ore_1" }
+    ]
+  }
+}

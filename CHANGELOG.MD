@@ -1,5 +1,11 @@
 # Changelog
 
+1.21.4 v1.0
+-------
+- Support de la 1.21.4 et autres changements
+- Reorganisation de la structure du pack pour tout simplifier
+
+
 1.21.2 - 1.21.3 v1.2
 -------
 - Correction d'un problème de modele sur les bamboo (corrigé depuis la 1.21.0 - 1.21.1 v1.3)

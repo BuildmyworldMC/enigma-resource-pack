@@ -1,5 +1,5 @@
 {
-    "parent": "block/sea_pickle",
+    "parent": "minecraft:block/sea_pickle",
     "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, 0 ],
@@ -15,6 +15,11 @@
             "rotation": [ 30, 225, 0 ],
             "translation": [ 0, 4, 0 ],
             "scale":[ 1.2, 1.2, 1.2 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale":[ 1, 1, 1 ]
         }
     }
 }

@@ -1,6 +1,0 @@
-{
-    "parent": "block/slab/planks_slab_bottom",
-    "textures": {
-        "all": "block/warped_planks"
-    }
-}

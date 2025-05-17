@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:variant/ore/copper_ore_1" }
+    ]
+  }
+}

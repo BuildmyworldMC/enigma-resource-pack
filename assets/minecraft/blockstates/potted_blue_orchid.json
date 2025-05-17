@@ -1,11 +1,32 @@
 {
-    "variants": {
-        "": [
-  { "model": "block/random/flower_pot/potted_blue_orchid_0" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_1" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_2" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_3" },
-  { "model": "block/random/flower_pot/potted_blue_orchid_4" }
-]
-    }
+  "multipart": [
+    {   "apply": [
+	{"model": "minecraft:variant/potable/potted/blue_orchid"         , "y":0},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_45"    , "y":0},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/blue_orchid"          , "y":90},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_45"     , "y":90},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/blue_orchid"           , "y":180},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_45"      , "y":180},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/potted/blue_orchid"            , "y":270},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_45"       , "y":270},
+	{"model": "minecraft:variant/potable/potted/blue_orchid_-22-5"   , "y":270}
+      ]
+    },
+    {   "apply": [
+	{ "model": "minecraft:block/flower_pot" },
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
+      ]
+    } 
+  ]
 }

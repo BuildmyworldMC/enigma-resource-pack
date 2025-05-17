@@ -1,11 +1,13 @@
 {
-    "variants": {
-        "": [
-            { "model": "block/flower_pot" },
-            { "model": "block/random/flower_pot/flower_pot_1" },
-            { "model": "block/random/flower_pot/flower_pot_2" },
-            { "model": "block/random/flower_pot/flower_pot_3" },
-            { "model": "block/random/flower_pot/flower_pot_4" }
-        ]
-    }
+  "multipart": [
+    {   "apply": [
+	{ "model": "minecraft:block/flower_pot" },
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
+      ]
+    } 
+  ]
 }

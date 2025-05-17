@@ -1,11 +1,32 @@
 {
-    "variants": {
-        "": [
-          { "model": "block/random/flower_pot/potted_birch_sapling_0" },
-          { "model": "block/random/flower_pot/potted_birch_sapling_1" },
-          { "model": "block/random/flower_pot/potted_birch_sapling_2" },
-          { "model": "block/random/flower_pot/potted_birch_sapling_3" },
-          { "model": "block/random/flower_pot/potted_birch_sapling_4" }
-        ]
-    }
+  "multipart": [
+    {   "apply": [
+	{"model": "minecraft:variant/potable/potted/birch_sapling"         , "y":0},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_45"    , "y":0},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_-22-5", "y":0},
+	{"model": "minecraft:variant/potable/potted/birch_sapling"          , "y":90},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_45"     , "y":90},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_-22-5" , "y":90},
+	{"model": "minecraft:variant/potable/potted/birch_sapling"           , "y":180},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_22-5"   , "y":180},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_45"      , "y":180},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_-22-5"  , "y":180},
+	{"model": "minecraft:variant/potable/potted/birch_sapling"            , "y":270},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_22-5"    , "y":270},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_45"       , "y":270},
+	{"model": "minecraft:variant/potable/potted/birch_sapling_-22-5"   , "y":270}
+      ]
+    },
+    {   "apply": [
+	{ "model": "minecraft:block/flower_pot" },
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
+      ]
+    } 
+  ]
 }

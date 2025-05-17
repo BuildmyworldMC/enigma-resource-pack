@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:variant/ore/gilded_blackstone_1" }
+    ]
+  }
+}

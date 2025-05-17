@@ -1,6 +1,0 @@
-{
-    "parent": "block/planks/planks",
-    "textures": {
-        "all": "block/crimson_planks"
-    }
-}

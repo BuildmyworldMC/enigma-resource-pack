@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:variant/ore/emerald_ore_1" }
+    ]
+  }
+}

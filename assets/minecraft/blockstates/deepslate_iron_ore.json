@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:variant/ore/deepslate_iron_ore"
+    }
+  }
+}

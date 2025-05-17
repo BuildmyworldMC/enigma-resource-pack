@@ -1,6 +1,0 @@
-{
-    "parent": "block/fence/fence_side",
-    "textures": {
-        "texture": "block/variants/fence/mangrove_fence"
-    }
-}

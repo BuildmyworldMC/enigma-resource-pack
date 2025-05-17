@@ -1,11 +1,17 @@
 {
-    "variants": {
-        "": [
-          { "model": "block/random/flower_pot/potted_cactus_0" },
-          { "model": "block/random/flower_pot/potted_cactus_1" },
-          { "model": "block/random/flower_pot/potted_cactus_2" },
-          { "model": "block/random/flower_pot/potted_cactus_3" },
-          { "model": "block/random/flower_pot/potted_cactus_4" }
-        ]
-    }
+  "multipart": [
+    {   "apply": [
+        { "model": "minecraft:variant/potable/potted/cactus" }
+      ]
+    },
+    {   "apply": [
+	{ "model": "minecraft:block/flower_pot" },
+        { "model": "minecraft:variant/potable/pot/pot_0" },
+        { "model": "minecraft:variant/potable/pot/pot_1" },
+        { "model": "minecraft:variant/potable/pot/pot_2" },
+        { "model": "minecraft:variant/potable/pot/pot_3" },
+        { "model": "minecraft:variant/potable/pot/pot_4" }
+      ]
+    } 
+  ]
 }
