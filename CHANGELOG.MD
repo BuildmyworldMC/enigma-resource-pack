@@ -3,7 +3,13 @@
 1.21.4 v1.0
 -------
 - Support de la 1.21.4 et autres changements
-- Reorganisation de la structure du pack pour tout simplifier
+- Réorganisation de la structure du pack pour tout simplifier
+- Ajout de transition douce sur le bloc de mycélium (mycelium)
+- Ajout de transition douce sur le bloc de terre racineuse (rooted dirt)
+- Refonte des nombreuses animations pour les rendre plus légères et plus optimisées
+- Prise en charge des blocs de boue (mud) dans les transitions douces
+- Remplacement des feuilles de bouleau (texture enigma) par celle du summerfield (rendu plus joli)
+- Suppression support Optifine pour les axolotls dans un seau
 
 
 1.21.2 - 1.21.3 v1.2
