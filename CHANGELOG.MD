@@ -1,5 +1,11 @@
 # Changelog
 
+1.21.4 v1.1
+-------
+- Amélioration de la couleur des textures du kelps pour le rendre moins jaune (Suggestion de Fanto)
+- Suppression des textures aléatoires pour l'andesite polie (polished andesite) car la texture etait celle du summerfield
+
+
 1.21.4 v1.0
 -------
 - Support de la 1.21.4 et autres changements
