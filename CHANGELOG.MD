@@ -3,6 +3,7 @@
 1.21.4 v1.1
 -------
 - Amélioration de la couleur des textures du kelps pour le rendre moins jaune (Suggestion de Fanto)
+- Correction d'un problème de texture pour la roche infecté (infected stone)
 - Suppression des textures aléatoires pour l'andesite polie (polished andesite) car la texture etait celle du summerfield
 
 
