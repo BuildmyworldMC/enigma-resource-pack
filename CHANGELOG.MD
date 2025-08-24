@@ -1,5 +1,10 @@
 # Changelog
 
+1.21.4 v1.2
+-------
+- Ajout de la texture manquante pour le bateau en bois pale (pale_oak_boat)
+
+
 1.21.4 v1.1
 -------
 - Amélioration de la couleur des textures du kelps pour le rendre moins jaune (Suggestion de Fanto)
