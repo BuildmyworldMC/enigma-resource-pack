@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:variant/spawn_egg/shape_piglin",
+	"textures": {
+		"particle": "#0",
+		"0": "minecraft:entity/piglin/piglin"
+	}
+}

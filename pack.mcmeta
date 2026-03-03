@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 46,
-    "supported_formats": {"min_inclusive": 18, "max_inclusive": 45},
-    "description": "Enigma 1.21.4 Edition Buildmyworld"
+    "pack_format": 55,
+    "supported_formats": {"min_inclusive": 18, "max_inclusive": 55},
+    "description": "Enigma 1.21.5 Edition Buildmyworld"
   },
   "overlays": {
     "entries": [
@@ -12,7 +12,8 @@
       { "formats": {"min_inclusive": 18, "max_inclusive": 28}, "directory": "18-28" },
       { "formats": {"min_inclusive": 18, "max_inclusive": 29}, "directory": "18-29" },
       { "formats": {"min_inclusive": 18, "max_inclusive": 30}, "directory": "18-30" },
-      { "formats": {"min_inclusive": 18, "max_inclusive": 45}, "directory": "18-45" }
+      { "formats": {"min_inclusive": 18, "max_inclusive": 45}, "directory": "18-45" },
+      { "formats": {"min_inclusive": 46, "max_inclusive": 55}, "directory": "46-55" }
     ]
   }
 }

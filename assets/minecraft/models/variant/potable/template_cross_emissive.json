@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"cross_emissive": "block/firefly_bush_emissive"
+		"particle": "#cross_emissive",
+		"cross_emissive": "minecraft:block/firefly_bush_emissive"
 	},
 	"elements": [
 		{

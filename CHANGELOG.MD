@@ -1,5 +1,10 @@
 # Changelog
 
+1.21.5 v1.0
+-------
+- Support de la 1.21.5 et autres changements
+
+
 1.21.4 v1.2
 -------
 - Ajout de la texture manquante pour le bateau en bois pale (pale_oak_boat)
