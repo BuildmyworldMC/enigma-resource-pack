@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:variant/wool/carpets/brown_1"
+      "model": "minecraft:block_variant/wool/carpets/brown_1"
     }
   }
 }

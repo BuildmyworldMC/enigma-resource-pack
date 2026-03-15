@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      { "model": "minecraft:variant/ore/deepslate_coal_ore_1" }
+      { "model": "minecraft:block_variant/ore/deepslate_coal_ore_1" }
     ]
   }
 }

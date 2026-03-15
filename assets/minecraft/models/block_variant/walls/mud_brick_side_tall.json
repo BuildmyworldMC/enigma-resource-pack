@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block_variant/walls/template_side_tall",
+	"textures": {
+		"particle": "#front",
+		"front": "minecraft:block/mud_bricks",
+		"innertop": "minecraft:textures_variant/walls/mud_bricks_inner_top",
+		"other": "minecraft:textures_variant/walls/mud_bricks_other"
+	}
+}

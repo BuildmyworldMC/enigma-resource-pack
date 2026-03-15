@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "minecraft:variant/bricks/cobbled_deepslate" }
+        "": { "model": "minecraft:block_variant/bricks/cobbled_deepslate" }
     }
 }

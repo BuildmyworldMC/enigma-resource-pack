@@ -2,15 +2,15 @@
     "variants": {
         "snowy=false": [
             { "model": "minecraft:block/mycelium" },
-            { "model": "minecraft:variant/mycelium/mycelium1" },
-            { "model": "minecraft:variant/mycelium/mycelium2" },
-            { "model": "minecraft:variant/mycelium/mycelium3" },
-            { "model": "minecraft:variant/mycelium/mycelium4" },
-            { "model": "minecraft:variant/mycelium/mycelium5" },
-            { "model": "minecraft:variant/mycelium/mycelium6" },
-            { "model": "minecraft:variant/mycelium/mycelium7" },
-            { "model": "minecraft:variant/mycelium/mycelium8" },
-            { "model": "minecraft:variant/mycelium/mycelium9" }
+            { "model": "minecraft:block_variant/mycelium/mycelium1" },
+            { "model": "minecraft:block_variant/mycelium/mycelium2" },
+            { "model": "minecraft:block_variant/mycelium/mycelium3" },
+            { "model": "minecraft:block_variant/mycelium/mycelium4" },
+            { "model": "minecraft:block_variant/mycelium/mycelium5" },
+            { "model": "minecraft:block_variant/mycelium/mycelium6" },
+            { "model": "minecraft:block_variant/mycelium/mycelium7" },
+            { "model": "minecraft:block_variant/mycelium/mycelium8" },
+            { "model": "minecraft:block_variant/mycelium/mycelium9" }
         ],
         "snowy=true": { "model": "minecraft:block/grass_block_snow" }
     }

@@ -32,19 +32,19 @@
       }
     },
     {
-      "apply": { "model": "minecraft:variant/redstone_wire/redstone_dust_side" },
+      "apply": { "model": "minecraft:block_variant/redstone_wire/redstone_dust_side" },
       "when": { "north": "side|up" }
     },
     {
-      "apply": { "model": "minecraft:variant/redstone_wire/redstone_dust_side_alt" },
+      "apply": { "model": "minecraft:block_variant/redstone_wire/redstone_dust_side_alt" },
       "when": { "south": "side|up" }
     },
     {
-      "apply": { "model": "minecraft:variant/redstone_wire/redstone_dust_side_alt", "y": 270 },
+      "apply": { "model": "minecraft:block_variant/redstone_wire/redstone_dust_side_alt", "y": 270 },
       "when": { "east": "side|up" }
     },
     {
-      "apply": { "model": "minecraft:variant/redstone_wire/redstone_dust_side", "y": 270 },
+      "apply": { "model": "minecraft:block_variant/redstone_wire/redstone_dust_side", "y": 270 },
       "when": { "west": "side|up" }
     },
     {

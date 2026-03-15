@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:variant/frogspawn/frogspawn"
+      "model": "minecraft:block_variant/frogspawn/frogspawn"
     }
   }
 }

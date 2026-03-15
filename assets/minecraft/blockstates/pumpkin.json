@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "minecraft:variant/pumpkin_melon/pumpkin" }
+        "": { "model": "minecraft:block_variant/pumpkin_melon/pumpkin" }
     }
 }

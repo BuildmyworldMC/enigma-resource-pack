@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:variant/pumpkin_melon/melon"
+      "model": "minecraft:block_variant/pumpkin_melon/melon"
     }
   }
 }

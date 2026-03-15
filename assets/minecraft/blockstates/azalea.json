@@ -1,7 +1,7 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:variant/potable/azalea/azalea"
+    "variants": {
+        "": {
+            "model": "minecraft:block_variant/potable/azalea/azalea"
+        }
     }
-  }
 }
