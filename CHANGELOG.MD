@@ -1,5 +1,10 @@
 # Changelog
 
+1.21.7 - 1.21.8 v1.1
+-------
+- Prise en charge des blocs de gres et gres rouges (variantes inclus) dans les transitions douces des blocks de terre (dirt, coarse_dirt, rooted_dirt)
+
+
 1.21.7 - 1.21.8 v1.0
 -------
 - Support de la 1.21.7 et 1.21.8 et autres changements
