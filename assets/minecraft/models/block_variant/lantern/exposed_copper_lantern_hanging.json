@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block_variant/lantern/lantern_hanging",
+    "textures": {
+        "particle": "minecraft:block/exposed_copper_lantern",
+        "chain": "minecraft:textures_variant/chain/exposed_copper_chain",
+        "lantern": "minecraft:block/exposed_copper_lantern"
+    }
+}

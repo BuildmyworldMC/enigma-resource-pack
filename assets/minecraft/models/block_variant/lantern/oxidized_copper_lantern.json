@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block_variant/lantern/lantern",
+    "textures": {
+        "particle": "minecraft:block/oxidized_copper_lantern",
+        "all": "minecraft:block/oxidized_copper_lantern",
+        "0": "minecraft:textures_variant/chain/oxidized_copper_chain"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "multipart": [
+        {
+            "when": { "axis": "x" },
+            "apply": [
+                { "model": "minecraft:block_variant/chain/chain", "x": 90, "y": 90 },
+                { "model": "minecraft:block_variant/chain/chain1", "x": 90, "y": 90 },
+                { "model": "minecraft:block_variant/chain/chain2", "x": 90, "y": 90 },
+                { "model": "minecraft:block_variant/chain/chain3", "x": 90, "y": 90 }
+            ]
+        },
+        {
+            "when": { "axis": "y" },
+            "apply": [
+                { "model": "minecraft:block_variant/chain/chain" },
+                { "model": "minecraft:block_variant/chain/chain1" },
+                { "model": "minecraft:block_variant/chain/chain2" },
+                { "model": "minecraft:block_variant/chain/chain3" }
+            ]
+        },
+        {
+            "when": { "axis": "z" },
+            "apply": [
+                { "model": "minecraft:block_variant/chain/chain", "x": 90 },
+                { "model": "minecraft:block_variant/chain/chain1", "x": 90 },
+                { "model": "minecraft:block_variant/chain/chain2", "x": 90 },
+                { "model": "minecraft:block_variant/chain/chain3", "x": 90 }
+            ]
+        }
+    ]
+}

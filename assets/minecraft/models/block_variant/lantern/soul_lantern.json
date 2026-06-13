@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block_variant/lantern/lantern",
+    "textures": {
+        "particle": "minecraft:block/soul_lantern",
+        "all": "minecraft:block/soul_lantern",
+        "0": "minecraft:textures_variant/chain/chain"
+    }
+}

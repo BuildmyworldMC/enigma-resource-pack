@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block_variant/chain/copper_chain1",
+    "textures": {
+        "chain": "minecraft:textures_variant/chain/exposed_copper_chain",
+        "particle": "minecraft:textures_variant/chain/exposed_copper_chain"
+    }
+}
