@@ -38,7 +38,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -78,7 +78,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -118,7 +118,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -158,7 +158,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -198,7 +198,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -238,7 +238,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -278,7 +278,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -318,7 +318,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -358,7 +358,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -398,7 +398,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -438,7 +438,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -478,7 +478,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -518,7 +518,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -558,7 +558,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -598,7 +598,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -638,7 +638,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -678,7 +678,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -718,7 +718,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -758,7 +758,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -798,7 +798,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -838,7 +838,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -878,7 +878,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -918,7 +918,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -958,7 +958,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -998,7 +998,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1038,7 +1038,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1078,7 +1078,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1118,7 +1118,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1158,7 +1158,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1198,7 +1198,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1238,7 +1238,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1278,7 +1278,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1318,7 +1318,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1358,7 +1358,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1398,7 +1398,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1438,7 +1438,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1478,7 +1478,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1518,7 +1518,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1558,7 +1558,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1598,7 +1598,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1638,7 +1638,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]
@@ -1678,7 +1678,7 @@
                             ],
                             "fallback": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item_variant/potion/effect/nothing"
+                                "model": "minecraft:item_variant/nothing"
                             }
                         }
                     ]

@@ -1,40 +1,40 @@
 {
     "pack": {
-        "pack_format": 69,
+        "pack_format": 75,
 		"min_format": 18,
-		"max_format": 69,
+		"max_format": 75,
 		"supported_formats": {
 			"min_inclusive": 18,
-			"max_inclusive": 69
+			"max_inclusive": 75
 		},
-        "description": "Enigma 1.21.9 - 1.21.10 Edition Buildmyworld"
+        "description": "Enigma 1.21.11 Edition Buildmyworld"
     },
     "overlays": {
         "entries": [
             {
                 "min_format": 22,
-                "max_format": 69,
+                "max_format": 75,
 				"supported_formats": {
                     "min_inclusive": 22,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "22p"
             },
             {
                 "min_format": 32,
-                "max_format": 69,
+                "max_format": 75,
 				"supported_formats": {
                     "min_inclusive": 32,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "32p"
             },
             {
                 "min_format": 46,
-                "max_format": 69,
+                "max_format": 75,
 				"supported_formats": {
                     "min_inclusive": 46,
-                    "max_inclusive": 69
+                    "max_inclusive": 75
                 },
                 "directory": "46p"
             }

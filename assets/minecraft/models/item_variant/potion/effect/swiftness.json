@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:textures_variant/potion/swiftness"
+        "layer0": "minecraft:item/potion/swiftness"
     }
 }

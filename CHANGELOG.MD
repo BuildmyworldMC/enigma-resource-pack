@@ -1,5 +1,11 @@
 # Changelog
 
+1.21.11 v1.0
+-------
+- Support de la 1.21.11 et autres changements
+- Support des nouveaux styles de voxelmap (bordures de la minicarte identique mais chemin des textures différents)
+
+
 1.21.9 - 1.21.10 v1.0
 -------
 - Support de la 1.21.9 et 1.21.10 et autres changements
