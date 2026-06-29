@@ -3,7 +3,7 @@
     "textures": {
         "particle": "#front",
         "front": "minecraft:block/polished_deepslate",
-        "innertop": "minecraft:textures_variant/bricks/polished_deepslate_inner_top",
-        "other": "minecraft:textures_variant/bricks/polished_deepslate_other"
+        "innertop": "minecraft:textures_variant/walls/polished_deepslate_inner_top",
+        "other": "minecraft:textures_variant/walls/polished_deepslate_other"
     }
 }

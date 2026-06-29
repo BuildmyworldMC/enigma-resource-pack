@@ -3,9 +3,9 @@
     "textures": {
         "particle": "minecraft:block/stone_bricks",
         "front": "block/stone_bricks",
-        "top": "minecraft:textures_variant/bricks/stone_bricks_top",
-        "innertop": "minecraft:textures_variant/bricks/stone_bricks_inner_top",
-        "other": "minecraft:textures_variant/bricks/stone_bricks_other"
+        "top": "minecraft:textures_variant/walls/stone_bricks_top",
+        "innertop": "minecraft:textures_variant/walls/stone_bricks_inner_top",
+        "other": "minecraft:textures_variant/walls/stone_bricks_other"
     },
     "elements": [
         {

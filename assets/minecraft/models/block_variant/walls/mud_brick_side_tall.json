@@ -3,7 +3,7 @@
     "textures": {
         "particle": "#front",
         "front": "minecraft:block/mud_bricks",
-        "innertop": "minecraft:textures_variant/bricks/mud_bricks_inner_top",
-        "other": "minecraft:textures_variant/bricks/mud_bricks_other"
+        "innertop": "minecraft:textures_variant/walls/mud_bricks_inner_top",
+        "other": "minecraft:textures_variant/walls/mud_bricks_other"
     }
 }

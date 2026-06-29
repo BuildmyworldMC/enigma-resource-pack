@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/block",
     "textures": {
-        "post": "minecraft:textures_variant/bricks/stone_bricks_post",
+        "post": "minecraft:textures_variant/walls/stone_bricks_post",
         "particle": "#post"
     },
     "elements": [
