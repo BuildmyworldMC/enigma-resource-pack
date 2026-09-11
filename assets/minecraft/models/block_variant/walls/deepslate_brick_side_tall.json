@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/bricks/innertop",
+    "parent": "minecraft:block_variant/walls/template_side_tall",
     "textures": {
         "particle": "#front",
         "front": "minecraft:block/deepslate_bricks",
