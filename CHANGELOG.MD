@@ -1,5 +1,12 @@
 # Changelog
 
+1.21.11 v1.1
+-------
+- Ajout de transition douce sur le bas du bloc d'herbe (grass)
+- Ajout de textures basiques pour supporter le mod axiom
+- Correction d'un probleme de modele sur les murels en bricks, bricks de terre, deepslate et de blackstone polie
+
+
 1.21.11 v1.0
 -------
 - Support de la 1.21.11 et autres changements
