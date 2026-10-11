@@ -144,6 +144,7 @@
 - Ajout des textures pour la plante Sarracénie (pitcher plant)
 
 
+1.20.0 v1.1
 -------
 - Ajout de la statue du père Rimoras pour l'abbaye de Rimori (nécessite Optifine)
 
