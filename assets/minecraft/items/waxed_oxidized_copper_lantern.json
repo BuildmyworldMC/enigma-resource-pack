@@ -4,7 +4,7 @@
         "models": [
             {
                 "type": "minecraft:model",
-                "model": "minecraft:block_variant/lantern/oxidized_copper_lantern"
+                "model": "minecraft:item_variant/lantern/waxed_oxidized_copper_lantern"
             },
             {
                 "type": "minecraft:model",

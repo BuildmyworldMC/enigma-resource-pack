@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block_variant/oxidized_copper_lantern",
+    "parent": "minecraft:block_variant/lantern/oxidized_copper_lantern",
     "display": {
         "thirdperson_righthand": {
             "rotation": [190, 45, 170],
