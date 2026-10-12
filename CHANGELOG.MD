@@ -1,5 +1,17 @@
 # Changelog
 
+1.21.11 v1.2
+-------
+- Ajout de transition douce sur le block de mousse pale (pale_moss_block)
+- Amélioration du menu avec un nouveau fond avec une vue sur l'abbaye de Rimori (Contribution d'Infernaton)
+- Prise en charge des blocs d'escalier et dalle en pierre (stone) dans toutes les transitions douces
+- Prise en charge des blocs de minerais de cuibre dans toutes les transitions douces
+- Prise en charge des tous les blocs de minerais dans les transitions douces des blocs d'herbes (grass_block) et de mouse (moss_block).
+- Correction du probleme d'affichage de la statue du père Rimoras (nécessite Optifine ou CIT Resewn Continuation) (Contribution d'Infernaton)
+- Correction du probleme d'affichage du modele 3d pour les lanternes en cuivre
+- Correction de beaucoup d'incohérences dans tous les transitions douces 
+
+
 1.21.11 v1.1
 -------
 - Ajout de transition douce sur le bas du bloc d'herbe (grass)
